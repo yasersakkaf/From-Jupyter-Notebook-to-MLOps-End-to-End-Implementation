@@ -5,4 +5,5 @@ The series of Notebooks aim to help ML Engineers / Data Scientists to learn how 
 
 
 Credits to [**NAMAN MANCHANDA**](https://www.kaggle.com/namanmanchanda) for creating [this](https://www.kaggle.com/code/namanmanchanda/heart-attack-eda-prediction-90-accuracy/notebook) simple Notebook on Kaggle which we use to implement the MLOps system.
+
 Notebook Link: https://www.kaggle.com/code/namanmanchanda/heart-attack-eda-prediction-90-accuracy/notebook.
